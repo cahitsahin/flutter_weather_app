@@ -1,6 +1,6 @@
 # WeatherApp
 
-A new Flutter project with using weather api.
+Flutter Weather Application with using BLoC Pattern and Meta Weather API
 
 
 
